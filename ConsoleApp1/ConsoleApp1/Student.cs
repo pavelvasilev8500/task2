@@ -44,6 +44,7 @@ namespace ConsoleApp1
             do
             {
                 Marks[i].Value = 0;
+                i++;
             }
             while (i < Marks.Count);
         }
