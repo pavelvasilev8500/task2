@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\iba\\task1\\projcts1\\programs\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\projcts1\\programs\\task 2\\task2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\iba\\task1\\projcts1\\programs\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\projcts1\\programs\\task 2\\task2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\iba\\task1\\projcts1\\programs\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\projcts1\\programs\\task 2\\task2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\iba\\task1\\projcts1\\programs\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "E:\\projcts1\\programs\\task 2\\task2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\City\\.nuget\\packages\\",
-        "outputPath": "C:\\iba\\task1\\projcts1\\programs\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\projcts1\\programs\\task 2\\task2\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\City\\AppData\\Roaming\\NuGet\\NuGet.Config",
